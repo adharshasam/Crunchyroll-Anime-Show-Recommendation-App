@@ -1,3 +1,3 @@
 # crunchyroll-anime-recommender
 
-link to my R Shiny web application: https://samrcode.shinyapps.io/DDP_app/
+link to my r shiny web application: https://samrcode.shinyapps.io/DDP_app/
