@@ -1,7 +1,4 @@
-# crunchyroll-anime-recommendation app
+# Crunchyroll-Anime-Recommendation App
 
-link to my r shiny web application: https://samrcode.shinyapps.io/DDP_app/
-
-✧ this app helps you find new shows to watch based on your genre preferences using a crunchyroll (not sponsored) anime dataset.
-
-✧ i also explain (or try to explain) cluster analysis in a way that a middle-school kid can understand?
+Link to my R Shiny web application: https://samrcode.shinyapps.io/DDP_app/
+Link to dataset used: https://www.kaggle.com/datasets/filipefilardi/crunchyroll-anime-ratings (not sponsored by Crunchyroll 😳)
