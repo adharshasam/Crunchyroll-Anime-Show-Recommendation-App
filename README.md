@@ -1,4 +1,4 @@
-# Crunchyroll-Anime-Recommendation App
+# Crunchyroll-Anime-Show-Recommendation App
 
 Link to my R Shiny web application: https://samrcode.shinyapps.io/DDP_app/
 
